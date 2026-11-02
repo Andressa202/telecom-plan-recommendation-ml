@@ -173,7 +173,7 @@ The project highlights skills in data preparation, classification, model compari
 
 ## 👩‍💻 Author
 
-**Andressa Cruz Miranda**
+**Andressa Miranda**
 
 Computer Science | Data Analytics | Python | Machine Learning
 
